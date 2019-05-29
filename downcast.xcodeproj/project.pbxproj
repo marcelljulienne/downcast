@@ -38,6 +38,7 @@
 		094561652296CED500F77C48 /* Memento by myuu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Memento by myuu.mp3"; sourceTree = "<group>"; };
 		094561672296D2BD00F77C48 /* Tender Remains by myuu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Tender Remains by myuu.mp3"; sourceTree = "<group>"; };
 		094561692296D2EC00F77C48 /* Shelter by myuu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shelter by myuu.mp3"; sourceTree = "<group>"; };
+		0989C24C229E47A30010C5B2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		099C9B7422923CF600DFBA73 /* EmitterScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmitterScene.swift; sourceTree = "<group>"; };
 		099C9B78229252EB00DFBA73 /* Cloud.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Cloud.sks; sourceTree = "<group>"; };
 		099C9B812292E05500DFBA73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 		09107EC9228A4CAD00F03BE9 = {
 			isa = PBXGroup;
 			children = (
+				0989C24C229E47A30010C5B2 /* README.md */,
 				09107ED4228A4CAD00F03BE9 /* NanoChallenge1 */,
 				09107ED3228A4CAD00F03BE9 /* Products */,
 			);
